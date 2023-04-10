@@ -5,6 +5,8 @@ import Error from "../components/ui/Error";
 import { useRegisterMutation } from "../features/auth/authApi";
 
 export default function Register() {
+
+    console.log(process.env);
     const [name, setName] = useState("");
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");

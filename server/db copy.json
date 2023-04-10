@@ -295,24 +295,6 @@
       ],
       "message": "How are you?",
       "timestamp": 1661976143678
-    },
-    {
-      "id": 15,
-      "participants": "a@a.com-b@b.com",
-      "users": [
-        {
-          "email": "a@a.com",
-          "name": "a",
-          "id": 6
-        },
-        {
-          "email": "b@b.com",
-          "name": "b",
-          "id": 7
-        }
-      ],
-      "message": "How are you?",
-      "timestamp": 1661976143678
     }
   ],
   "messages": [
@@ -346,22 +328,6 @@
         "id": 1
       },
       "message": "How are you?",
-      "timestamp": 1661976143678
-    },
-    {
-      "id": 3,
-      "conversationId": 1,
-      "sender": {
-        "email": "a@a.com",
-        "name": "a",
-        "id": 6
-      },
-      "receiver": {
-        "email": "b@b.com",
-        "name": "b ",
-        "id": 7
-      },
-      "message": "How ares you?",
       "timestamp": 1661976143678
     }
   ]
